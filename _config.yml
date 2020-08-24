@@ -64,7 +64,7 @@ cover:
 # index page dream text,
 # 配置首页显示"梦想"的语句.
 dream:
-  enable: true
+  enable: false
   showTitle: true
   title: 我的梦想
   text: 淦
@@ -531,8 +531,8 @@ subtitle:
   startDelay: 300 # 开始延迟
   typeSpeed: 100 # 打字速度
   backSpeed: 50 # 删除速度
-  sub1: 从来没有真正的绝境, 只有心灵的迷途
-  sub2: Never really desperate, only the lost of the soul
+  sub1: 万物皆虚，万事皆允
+  sub2: Nothing is an absolute reality, all is permitted
 
 # 手机二级菜单.
 navMenu:
