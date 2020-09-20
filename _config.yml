@@ -140,6 +140,7 @@ socialLink:
   weibo: # https://weibo.com/xxx
   zhihu: # https://www.zhihu.com/xxx
   rss: false # true、false
+  stackOverFlow: https://stackoverflow.com/users/11654078/ea-ubisoft
 
 # Whether to activate the Post TOC, and Configure which title types are supported by TOC support.
 # You can add `toc: false` to the Front-matter of a post to turn off the TOC.
